@@ -243,12 +243,12 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade_g/proprietary/nv/MSM8X25_C8813/nv_ext_FTY.bin:system/nv/MSM8X25_C8813/nv_ext_FTY.bin \
     vendor/zte/blade_g/proprietary/nv/MSM8X25_C8833D/nv_ext.bin:system/nv/MSM8X25_C8833D/nv_ext.bin \
     vendor/zte/blade_g/proprietary/nv/MSM8X25_C8833D/nv_ext_FTY.bin:system/nv/MSM8X25_C8833D/nv_ext_FTY.bin \
-    vendor/zte/blade_g/proprietary/nv/MSM8X25_blade_g-1/nv_ext.bin:system/nv/MSM8X25_blade_g-1/nv_ext.bin \
-    vendor/zte/blade_g/proprietary/nv/MSM8X25_blade_g-1/nv_ext_FTY.bin:system/nv/MSM8X25_blade_g-1/nv_ext_FTY.bin \
-    vendor/zte/blade_g/proprietary/nv/MSM8X25_blade_g-51/nv_ext.bin:system/nv/MSM8X25_blade_g-51/nv_ext.bin \
-    vendor/zte/blade_g/proprietary/nv/MSM8X25_blade_g-51/nv_ext_FTY.bin:system/nv/MSM8X25_blade_g-51/nv_ext_FTY.bin \
-    vendor/zte/blade_g/proprietary/nv/MSM8X25_blade_gD/nv_ext.bin:system/nv/MSM8X25_blade_gD/nv_ext.bin \
-    vendor/zte/blade_g/proprietary/nv/MSM8X25_blade_gD/nv_ext_FTY.bin:system/nv/MSM8X25_blade_gD/nv_ext_FTY.bin \
+    vendor/zte/blade_g/proprietary/nv/MSM8X25_U8833-1/nv_ext.bin:system/nv/MSM8X25_U8833-1/nv_ext.bin \
+    vendor/zte/blade_g/proprietary/nv/MSM8X25_U8833-1/nv_ext_FTY.bin:system/nv/MSM8X25_U8833-1/nv_ext_FTY.bin \
+    vendor/zte/blade_g/proprietary/nv/MSM8X25_U8833-51/nv_ext.bin:system/nv/MSM8X25_U8833-51/nv_ext.bin \
+    vendor/zte/blade_g/proprietary/nv/MSM8X25_U8833-51/nv_ext_FTY.bin:system/nv/MSM8X25_U8833-51/nv_ext_FTY.bin \
+    vendor/zte/blade_g/proprietary/nv/MSM8X25_U8833D/nv_ext.bin:system/nv/MSM8X25_U8833D/nv_ext.bin \
+    vendor/zte/blade_g/proprietary/nv/MSM8X25_U8833D/nv_ext_FTY.bin:system/nv/MSM8X25_U8833D/nv_ext_FTY.bin \
     vendor/zte/blade_g/proprietary/nv/MSM8X25_U8951-1/nv_ext.bin:system/nv/MSM8X25_U8951-1/nv_ext.bin \
     vendor/zte/blade_g/proprietary/nv/MSM8X25_U8951-1/nv_ext_FTY.bin:system/nv/MSM8X25_U8951-1/nv_ext_FTY.bin \
     vendor/zte/blade_g/proprietary/nv/MSM8X25_U8951-51/nv_ext.bin:system/nv/MSM8X25_U8951-51/nv_ext.bin \
