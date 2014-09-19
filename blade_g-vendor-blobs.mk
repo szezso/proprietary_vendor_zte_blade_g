@@ -262,10 +262,10 @@ PRODUCT_COPY_FILES += \
     vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_C8813.bin:system/wifi/ath6k/caldata_MSM8X25_C8813.bin \
     vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_C8825D.bin:system/wifi/ath6k/caldata_MSM8X25_C8825D.bin \
     vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_C8833D.bin:system/wifi/ath6k/caldata_MSM8X25_C8833D.bin \
-    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_blade_g-1.bin:system/wifi/ath6k/caldata_MSM8X25_blade_g-1.bin \
-    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_blade_g-51.bin:system/wifi/ath6k/caldata_MSM8X25_blade_g-51.bin \
-    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_blade_g.bin:system/wifi/ath6k/caldata_MSM8X25_blade_g.bin \
-    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_blade_gD.bin:system/wifi/ath6k/caldata_MSM8X25_blade_gD.bin \
+    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_U8833-1.bin:system/wifi/ath6k/caldata_MSM8X25_U8833-1.bin \
+    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_U8833-51.bin:system/wifi/ath6k/caldata_MSM8X25_U8833-51.bin \
+    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_U8833.bin:system/wifi/ath6k/caldata_MSM8X25_U8833.bin \
+    vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_U8833D.bin:system/wifi/ath6k/caldata_MSM8X25_U8833D.bin \
     vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_U8951-1.bin:system/wifi/ath6k/caldata_MSM8X25_U8951-1.bin \
     vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_U8951-51.bin:system/wifi/ath6k/caldata_MSM8X25_U8951-51.bin \
     vendor/zte/blade_g/proprietary/wifi/ath6k/caldata_MSM8X25_U8951.bin:system/wifi/ath6k/caldata_MSM8X25_U8951.bin \
